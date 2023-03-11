@@ -1,0 +1,210 @@
+[
+	
+	{
+		"name": "Шоколад молочный КЛАССИЧЕСКИЙ ЧИЗКЕЙК",
+		"price": 90.99,
+		"discount":29,
+		"wight": "90 г",
+		"picture": "https://media.5ka.ru/media/products/4158033.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Шоколад"
+	},
+	{
+		"name": "КОФЕ С МОЛОКОМ Молочный шоколад с добавлением кофе",
+		"price": 76.99,
+		"discount":29,
+		"wight": "82 г",
+		"picture": "https://media.5ka.ru/media/products/4121224.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Шоколад"
+	},
+	{
+		"name": "Шоколад темный с цельным миндалем RITTER SPORT ",
+		"price": 195.99,
+		"discount":29,
+		"wight": "100 г",
+		"picture": "https://media.5ka.ru/media/products/4114351.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Шоколад"
+	},
+	{
+		"name": "Шоколад молочный с начинкой АЛЕНКА",
+		"price": 97.99,
+		"discount":29,
+		"wight": "87 г",
+		"picture": "https://media.5ka.ru/media/products/4104630.jpg",
+		"dataPromo":" до 29 марта"
+		,"group": "Шоколад"
+	},
+	{
+		"name": "Молочный шоколад Nelly с молочной начинкой ",
+		"price": 89.99,
+		"discount":17,
+		"wight": "100 г",
+		"picture": "https://media.5ka.ru/media/products/3638770.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Шоколад"
+	},
+	{
+		"name": "Икра Асто форели",
+		"price": 499.99,
+		"discount":21,
+		"wight": "90 г",
+		"picture": "https://media.5ka.ru/media/products/3022938.jpg",
+		"dataPromo":" до 13 марта",
+		"group": "Рыбная гастрономия"
+	},
+	{
+		"name": "Европром Икорный соус с ароматом 'Копченый лосось'",
+		"price": 89.99,
+		"discount":23,
+		"wight": "180 г",
+		"picture": "https://media.5ka.ru/media/products/3610136.jpg",
+		"dataPromo":" до 13 марта",
+		"group": "Рыбная гастрономия"
+	},
+	{
+		"name": "Сельдь Рыбная кухня филе-кусочки в масле",
+		"price": 89.99,
+		"discount":24,
+		"wight": "190 г",
+		"picture": "https://media.5ka.ru/media/products/3634588.jpg",
+		"dataPromo":" до 13 марта",
+		"group": "Рыбная гастрономия"
+	},
+	{
+		"name": "Конфеты Кара-Кум",
+		"price": 999.99,
+		"discount":31,
+		"wight": "1 кг",
+		"picture": "https://media.5ka.ru/media/products/25.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Конфеты"
+	},
+	{
+		"name": "Конфеты Красная шапочка, шоколадные",
+		"price": 1299.99,
+		"discount":47,
+		"wight": "1 кг",
+		"picture": "https://media.5ka.ru/media/products/1628.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Конфеты"
+	},
+	{
+		"name": "Конфеты Ромашки",
+		"price": 699.99,
+		"discount":43,
+		"wight": "1 кг",
+		"picture": "https://media.5ka.ru/media/products/41398.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Конфеты"
+	},
+	{
+		"name": "Конфеты Маска, РотФронт",
+		"price": 799.99,
+		"discount":41,
+		"wight": "1 кг",
+		"picture": "https://media.5ka.ru/media/products/41483.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Конфеты"
+	},
+	{
+		"name": "Конфеты Конти, шоколадные истории",
+		"price": 549.99,
+		"discount":28,
+		"wight": "1 кг",
+		"picture": "https://media.5ka.ru/media/products/3338826.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Конфеты"
+	},
+	{
+		"name": "КОНТИ Конфеты ЖИВИНКА вк.арбуз",
+		"price": 449.99,
+		"discount":34,
+		"wight": "1 кг",
+		"picture": "https://media.5ka.ru/media/products/3381876.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Конфеты"
+	},
+	{
+		"name": "Конфеты Победа Вкуса Соната шоколадные",
+		"price": 799.99,
+		"discount":26,
+		"wight": "1 кг",
+		"picture": "https://media.5ka.ru/media/products/3650391.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Конфеты"
+	},
+	{
+		"name": "Изделия хлебобулочные сдобные: Сдобные палочки 'Снежка' с малиновым джемом",
+		"price": 129.99,
+		"discount":16,
+		"wight": "370 г",
+		"picture": "https://media.5ka.ru/media/products/3964790.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Печенье"
+	},
+	{
+		"name": "ЗЕРНИЦА Печенье сахарное 'Традиционное' глазированное",
+		"price": 59.99,
+		"discount":41,
+		"wight": "120 г",
+		"picture": "https://media.5ka.ru/media/products/4151710.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Печенье"
+	},
+	{
+		"name": "ЗЕРНИЦА Печенье сахарное с топленым молоком",
+		"price": 69.99,
+		"discount":15,
+		"wight": "300 г",
+		"picture": "https://media.5ka.ru/media/products/4153636.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Печенье"
+	},
+	{
+		"name": "Соус РЕСТОРИЯ на основе растительных масел «Сырный» с массовой долей жира 42%",
+		"price": 79.99,
+		"discount":13,
+		"wight": "233 г",
+		"picture": "https://media.5ka.ru/media/products/4089001.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Соусы"
+	},
+	{
+		"name": "Соус РЕСТОРИЯ на основе растительных масел «Сметанный с грибами» с массовой долей жира 42%",
+		"price": 79.99,
+		"discount":13,
+		"wight": "233 г",
+		"picture": "https://media.5ka.ru/media/products/4089000.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Соусы"
+	},
+	{
+		"name": "Соус майонезный Ряба Постный Провансаль 50%",
+		"price": 109.99,
+		"discount":28,
+		"wight": "372 г",
+		"picture": "https://media.5ka.ru/media/products/3446188.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Соусы"
+	},
+	{
+		"name": "БЗМЖ Сыр полутвердый Брест-Литовск финский 45%",
+		"price": 199.99,
+		"discount":23,
+		"wight": "200 г",
+		"picture": "https://media.5ka.ru/media/products/4046893.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Сыры"
+	},
+	{
+		"name": "БЗМЖ Сыр 'БАШКИРСКИЙ МЕДОВЫЙ' 50%",
+		"price": 229.99,
+		"discount":31,
+		"wight": "190 г",
+		"picture": "https://media.5ka.ru/media/products/4087688.jpg",
+		"dataPromo":" до 29 марта",
+		"group": "Сыры"
+	}
+]
