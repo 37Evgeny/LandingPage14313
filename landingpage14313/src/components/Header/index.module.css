@@ -18,9 +18,10 @@
 }
 
 @media (max-width: 700px) {
-	.header__wrapper {
+	.header {
 		flex-direction: column;
 		align-items: stretch;
 		gap: 20px;
+		font-size: 10px;
 	}
 }

@@ -1,8 +1,8 @@
 .footer {
 	width: 100%;
-	background-color: lime;
-	padding-top: 40px;
-	padding-bottom: 88px;
+	background-color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .footer__wrapper {
@@ -98,6 +98,9 @@
 
 
 @media (max-width: 880px) {
+	.footer__wrapper{
+		font-size: 10px;
+	}
 	.wrapper {
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
@@ -111,6 +114,9 @@
 }
 
 @media (max-width: 450px) {
+	.footer__wrapper{
+		font-size: 10px;
+	}
 	.wrapper {
 		grid-template-columns: repeat(1, 1fr);
 	}
@@ -122,6 +128,12 @@
 }
 
 @media (max-width: 768px) {
+	.footer__wrapper p{
+		font-size: 20px;
+	}
+	.footer__wrapper a{
+		font-size: 20px;
+	}
 	.footer__logo {
 		display: none;
 	}
