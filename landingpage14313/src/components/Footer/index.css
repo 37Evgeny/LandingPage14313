@@ -101,6 +101,9 @@
 	.footer__wrapper{
 		font-size: 10px;
 	}
+	.contacts__title{
+		font-size: 50px;
+	}
 	.wrapper {
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
@@ -113,37 +116,30 @@
 	}
 }
 
-@media (max-width: 450px) {
-	.footer__wrapper{
-		font-size: 10px;
-	}
-	.wrapper {
-		grid-template-columns: repeat(1, 1fr);
-	}
-
-	.col:last-child {
-		grid-column-start: 1;
-		grid-row-start: 1;
-	}
-}
 
 @media (max-width: 768px) {
-	.footer__wrapper p{
-		font-size: 20px;
+	.contacts__socials{
+		text-align: center;
+		justify-content: center;
+	}
+	.contacts__title{
+		font-size: 33px;
 	}
 	.footer__wrapper a{
 		font-size: 20px;
 	}
-	.footer__logo {
-		display: none;
+	.socials__item{
+		display: flex;
+		align-items: center;
+		justify-content: center;
 	}
-	.footer__copyright {
-		display: none;
-	}
-	.menu-bottom {
-		display: none;
+	.contacts__whatsapp{
+		text-align: center;
+		padding-right: 5px;
+	 
 	}
 	.footer__wrapper {
+		display: flex;
 		text-align: center;
 		justify-content: center;
 	}

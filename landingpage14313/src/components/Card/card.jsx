@@ -2,7 +2,7 @@
 import './index.css';
 // import {ReactComponent as Save} from "./save.svg";
 
-const Card = ({ name, _id, price, discount, wight, description, picture }) => {
+const Card = ({ name, _id, price, discount, wight, description, picture, dataPromo }) => {
 
 	const discount_price = Math.round(price - price * discount / 100)
 
@@ -21,6 +21,7 @@ const Card = ({ name, _id, price, discount, wight, description, picture }) => {
 					<span className="card__wight">{wight}</span>
 					<span className={discount !== 0 ? "card__old-price" : "card__price"}>{price}&nbsp;₽</span>
 					{discount !== 0 && <span className="card__price card__price_type_discount">от {discount_price}&nbsp;₽</span>}
+					<span className='card__promo'>{dataPromo}</span>
 				</div>
 			</a>
 		</div>

@@ -16,7 +16,7 @@ function Footer() {
 							</a>
 							<ul className="socials contacts__socials">
 								<li className="socials__item">
-                                <p>Вступайте в нашу группу в WhatsApp</p>
+                                <p className="contacts__whatsapp">Вступайте в нашу группу в WhatsApp</p>
 									<a className="socials__link" href="https://chat.whatsapp.com/IoSjqcXxWTD2g8djhTNY3p">
                                         <img src={whatsapp} alt="whatsapp" className="socials__icon" />
 									</a>
