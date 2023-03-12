@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/LandingPage14313/static/css/main.91e20c0f.css",
-    "main.js": "/LandingPage14313/static/js/main.90b84c5d.js",
+    "main.css": "/LandingPage14313/static/css/main.3d599752.css",
+    "main.js": "/LandingPage14313/static/js/main.ab3d5c36.js",
     "static/media/taglineImg.svg": "/LandingPage14313/static/media/taglineImg.543cd9fe0b5d5932dafca600a1d6bae0.svg",
     "static/media/whatsapp.svg": "/LandingPage14313/static/media/whatsapp.51cbd71440eaa90946070b8848c12129.svg",
     "static/media/logo_5ka.svg": "/LandingPage14313/static/media/logo_5ka.c3f8994b3ed341754a0892030c8755f6.svg",
     "index.html": "/LandingPage14313/index.html",
-    "main.91e20c0f.css.map": "/LandingPage14313/static/css/main.91e20c0f.css.map",
-    "main.90b84c5d.js.map": "/LandingPage14313/static/js/main.90b84c5d.js.map"
+    "main.3d599752.css.map": "/LandingPage14313/static/css/main.3d599752.css.map",
+    "main.ab3d5c36.js.map": "/LandingPage14313/static/js/main.ab3d5c36.js.map"
   },
   "entrypoints": [
-    "static/css/main.91e20c0f.css",
-    "static/js/main.90b84c5d.js"
+    "static/css/main.3d599752.css",
+    "static/js/main.ab3d5c36.js"
   ]
 }
