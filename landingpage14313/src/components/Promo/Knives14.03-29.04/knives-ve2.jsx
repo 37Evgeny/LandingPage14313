@@ -10,7 +10,7 @@ function Knives2() {
             </div>
             <div className='right'>
                 <p className='dates__promo'>14 марта - 29 мая</p>
-                <p className='text__promo'>Стильные ножи <br></br>со скидкой за наклейки</p>
+                <p className='text__promo'>Стильные ножи <br/>со скидкой за наклейки</p>
                 <p className='mark__promo'>200₽ = 1 наклейка</p>
 
             </div>
