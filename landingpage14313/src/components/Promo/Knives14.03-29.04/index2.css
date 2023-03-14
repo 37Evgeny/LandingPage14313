@@ -1,0 +1,18 @@
+.knives{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-image: ;
+}
+.dates__promo{
+    font-size: 24px;
+    margin: 0px 0px 41px 5px;
+}
+.text__promo{
+    font-size: 32px;
+
+}
+.mark__promo{
+    font-size: 24px;
+}

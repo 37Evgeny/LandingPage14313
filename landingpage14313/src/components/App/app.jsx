@@ -5,6 +5,8 @@ import Header from "../Header/header";
 import Tagline from "../Tagline/tagline";
 import data from '../../assets/data.json';
 import { CardContext } from '../../context/cardContext';
+import Knives from "../Promo/Knives14.03-29.04/knives";
+import Knives2 from "../Promo/Knives14.03-29.04/knives-ve2";
 
 function App() {
 
@@ -26,6 +28,7 @@ function App() {
         <>
             <Header />
             <main className='content container'>
+                <Knives2/>
                 <CardList/>
                 <Tagline />
             </main>

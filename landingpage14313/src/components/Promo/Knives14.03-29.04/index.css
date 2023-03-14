@@ -1,0 +1,19 @@
+.knives{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.knives__img {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+} 
+@media (max-width: 768px){
+    .knives__img{
+        padding-top: 30px;
+        width: 95%;
+    }
+   
+}
