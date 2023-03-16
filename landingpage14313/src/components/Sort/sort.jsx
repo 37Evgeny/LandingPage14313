@@ -16,10 +16,18 @@ const tabs = [
 		id: "sale",
 		title: 'По скидке'
 	},
+	{
+		id: "month",
+		title: "Акции по карте"
+	}, 
+	{
+		id: "week",
+		title: "Недельная акция"
+	}, 
 ];
 
 const Sort = () => {
-    const { currentSort, setCurrentSort, sortedData } = useContext(CardContext)
+    const { currentSort, setCurrentSort, sortedData ,handleSorted} = useContext(CardContext)
 
 	const handleClick = (e, tab) => {
 		e.preventDefault();
@@ -33,10 +41,12 @@ const Sort = () => {
 				<div
 					className={cn("sort__link", {
 						"sort__link_selected": currentSort === tab.id
+						
 					})}
 					key={tab.id}
 					id={tab.id}
 				>
+				
 					<a onClick={(e) => handleClick(e, tab)}>
 						{tab.title}
 					</a>

@@ -7,7 +7,8 @@
 		"wight": "90 г",
 		"picture": "https://media.5ka.ru/media/products/4158033.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Шоколад"
+		"group": "Шоколад",
+		"promo": 1
 	},
 	{
 		"name": "КОФЕ С МОЛОКОМ Молочный шоколад с добавлением кофе",
@@ -16,7 +17,8 @@
 		"wight": "82 г",
 		"picture": "https://media.5ka.ru/media/products/4121224.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Шоколад"
+		"group": "Шоколад",
+		"promo": 1
 	},
 	{
 		"name": "Шоколад темный с цельным миндалем RITTER SPORT ",
@@ -25,7 +27,8 @@
 		"wight": "100 г",
 		"picture": "https://media.5ka.ru/media/products/4114351.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Шоколад"
+		"group": "Шоколад",
+		"promo": 1
 	},
 	{
 		"name": "Шоколад молочный с начинкой АЛЕНКА",
@@ -34,7 +37,8 @@
 		"wight": "87 г",
 		"picture": "https://media.5ka.ru/media/products/4104630.jpg",
 		"dataPromo":" до 29 марта"
-		,"group": "Шоколад"
+		,"group": "Шоколад",
+		"promo": 1
 	},
 	{
 		"name": "Молочный шоколад Nelly с молочной начинкой ",
@@ -43,7 +47,8 @@
 		"wight": "100 г",
 		"picture": "https://media.5ka.ru/media/products/3638770.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Шоколад"
+		"group": "Шоколад",
+		"promo": 1
 	},
 	{
 		"name": "Конфеты Кара-Кум",
@@ -52,7 +57,8 @@
 		"wight": "1 кг",
 		"picture": "https://media.5ka.ru/media/products/25.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Конфеты"
+		"group": "Конфеты",
+		"promo": 1
 	},
 	{
 		"name": "Конфеты Красная шапочка, шоколадные",
@@ -61,7 +67,8 @@
 		"wight": "1 кг",
 		"picture": "https://media.5ka.ru/media/products/1628.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Конфеты"
+		"group": "Конфеты",
+		"promo": 1
 	},
 	{
 		"name": "Конфеты Ромашки",
@@ -70,7 +77,8 @@
 		"wight": "1 кг",
 		"picture": "https://media.5ka.ru/media/products/41398.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Конфеты"
+		"group": "Конфеты",
+		"promo": 1
 	},
 	{
 		"name": "Конфеты Маска, РотФронт",
@@ -79,7 +87,8 @@
 		"wight": "1 кг",
 		"picture": "https://media.5ka.ru/media/products/41483.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Конфеты"
+		"group": "Конфеты",
+		"promo": 1
 	},
 	{
 		"name": "Конфеты Конти, шоколадные истории",
@@ -88,7 +97,8 @@
 		"wight": "1 кг",
 		"picture": "https://media.5ka.ru/media/products/3338826.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Конфеты"
+		"group": "Конфеты",
+		"promo": 1
 	},
 	{
 		"name": "КОНТИ Конфеты ЖИВИНКА вк.арбуз",
@@ -97,7 +107,8 @@
 		"wight": "1 кг",
 		"picture": "https://media.5ka.ru/media/products/3381876.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Конфеты"
+		"group": "Конфеты",
+		"promo": 1
 	},
 	{
 		"name": "Конфеты Победа Вкуса Соната шоколадные",
@@ -106,7 +117,8 @@
 		"wight": "1 кг",
 		"picture": "https://media.5ka.ru/media/products/3650391.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Конфеты"
+		"group": "Конфеты",
+		"promo": 1
 	},
 	{
 		"name": "Изделия хлебобулочные сдобные: Сдобные палочки 'Снежка' с малиновым джемом",
@@ -115,7 +127,8 @@
 		"wight": "370 г",
 		"picture": "https://media.5ka.ru/media/products/3964790.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Печенье"
+		"group": "Печенье",
+		"promo": 1
 	},
 	{
 		"name": "ЗЕРНИЦА Печенье сахарное 'Традиционное' глазированное",
@@ -124,7 +137,8 @@
 		"wight": "120 г",
 		"picture": "https://media.5ka.ru/media/products/4151710.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Печенье"
+		"group": "Печенье",
+		"promo": 1
 	},
 	{
 		"name": "ЗЕРНИЦА Печенье сахарное с топленым молоком",
@@ -133,7 +147,8 @@
 		"wight": "300 г",
 		"picture": "https://media.5ka.ru/media/products/4153636.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Печенье"
+		"group": "Печенье",
+		"promo": 1
 	},
 	{
 		"name": "Соус РЕСТОРИЯ на основе растительных масел «Сырный» с массовой долей жира 42%",
@@ -142,7 +157,8 @@
 		"wight": "233 г",
 		"picture": "https://media.5ka.ru/media/products/4089001.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Соусы"
+		"group": "Соусы",
+		"promo": 1
 	},
 	{
 		"name": "Соус РЕСТОРИЯ на основе растительных масел «Сметанный с грибами» с массовой долей жира 42%",
@@ -151,7 +167,8 @@
 		"wight": "233 г",
 		"picture": "https://media.5ka.ru/media/products/4089000.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Соусы"
+		"group": "Соусы",
+		"promo": 1
 	},
 	{
 		"name": "Соус майонезный Ряба Постный Провансаль 50%",
@@ -160,7 +177,8 @@
 		"wight": "372 г",
 		"picture": "https://media.5ka.ru/media/products/3446188.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Соусы"
+		"group": "Соусы",
+		"promo": 1
 	},
 	{
 		"name": "БЗМЖ Сыр полутвердый Брест-Литовск финский 45%",
@@ -169,7 +187,8 @@
 		"wight": "200 г",
 		"picture": "https://media.5ka.ru/media/products/4046893.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Сыры"
+		"group": "Сыры",
+		"promo": 1
 	},
 	{
 		"name": "БЗМЖ Сыр 'БАШКИРСКИЙ МЕДОВЫЙ' 50%",
@@ -178,7 +197,58 @@
 		"wight": "190 г",
 		"picture": "https://media.5ka.ru/media/products/4087688.jpg",
 		"dataPromo":" до 29 марта",
-		"group": "Сыры"
+		"group": "Сыры",
+		"promo": 1
+	},
+	{
+		"name": "БЗМЖ Сыр 'БАШКИРСКИЙ МЕДОВЫЙ' 50%",
+		"price": 229.99,
+		"discount":31,
+		"wight": "190 г",
+		"picture": "https://media.5ka.ru/media/products/4087688.jpg",
+		"dataPromo":" до 1 марта",
+		"group": "Сыры",
+		"promo": 0
+	},
+	{
+		"name": "БЗМЖ Сыр 'БАШКИРСКИЙ МЕДОВЫЙ' 50%",
+		"price": 229.99,
+		"discount":31,
+		"wight": "190 г",
+		"picture": "https://media.5ka.ru/media/products/4087688.jpg",
+		"dataPromo":" до 1 марта",
+		"group": "Сыры",
+		"promo": 0
+	},
+	{
+		"name": "БЗМЖ Сыр 'БАШКИРСКИЙ МЕДОВЫЙ' 50%",
+		"price": 229.99,
+		"discount":31,
+		"wight": "190 г",
+		"picture": "https://media.5ka.ru/media/products/4087688.jpg",
+		"dataPromo":" до 1 марта",
+		"group": "Сыры",
+		"promo": 0
+	},
+	{
+		"name": "БЗМЖ Сыр 'БАШКИРСКИЙ МЕДОВЫЙ' 50%",
+		"price": 229.99,
+		"discount":31,
+		"wight": "190 г",
+		"picture": "https://media.5ka.ru/media/products/4087688.jpg",
+		"dataPromo":" до 1 марта",
+		"group": "Сыры",
+		"promo": 0
+	},
+	{
+		"name": "БЗМЖ Сыр 'БАШКИРСКИЙ МЕДОВЫЙ' 50%",
+		"price": 229.99,
+		"discount":31,
+		"wight": "190 г",
+		"picture": "https://media.5ka.ru/media/products/4087688.jpg",
+		"dataPromo":" до 1 марта",
+		"group": "Сыры",
+		"promo": 0
 	}
 
 ]

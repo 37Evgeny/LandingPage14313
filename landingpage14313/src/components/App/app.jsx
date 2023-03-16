@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useCallback, useState } from "react";
 import CardList from "../CardList/card-list";
 import Footer from "../Footer/footer";
 import Header from "../Header/header";
@@ -12,14 +12,20 @@ function App() {
 
     const [cards,setCards]=useState(data);
     const [currentSort, setCurrentSort] = useState("");
+    const [promo, setPromo] = useState(data)
 
+
+//    Фунционал сортирови, чтобы фильтровать сезонное промо и недельное сделан костыль в promo добалена цифра 1 = сезонное промо, 0- недельное промо
     const sortedData = (currentSort) => {
-
+        const month=cards;
+        const week=cards;
         switch (currentSort) {
           case 'low': setCards(cards.sort((a, b) => b.price - a.price)); break;
           case 'cheap': setCards(cards.sort((a, b) => a.price - b.price)); break;
           case 'sale': setCards(cards.sort((a, b) => b.discount - a.discount)); break;
-          default: setCards(cards.sort((a, b) => a.price - b.price)); break;
+          case 'month': setCards(cards.sort((a,b) => b.promo - a.promo  ));break;
+          case 'week': setCards(cards.sort((a,b) => a.promo - b.promo));break;
+          default: setCards(cards.filter((a, b) => a.price - b.price)); break;
         }
       }
 
