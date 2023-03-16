@@ -148,3 +148,11 @@
 	background-color: #01A54E;
 	color: #FFFFFF;
 }
+
+.card__promo{
+	font-size: 12px;
+	line-height: 14px;
+	color: #7b8e98;
+	display: block;
+	margin-bottom: 2px;
+}
