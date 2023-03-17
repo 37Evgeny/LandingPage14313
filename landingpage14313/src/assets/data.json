@@ -199,56 +199,6 @@
 		"dataPromo":" до 29 марта",
 		"group": "Сыры",
 		"promo": 1
-	},
-	{
-		"name": "БЗМЖ Сыр 'БАШКИРСКИЙ МЕДОВЫЙ' 50%",
-		"price": 229.99,
-		"discount":31,
-		"wight": "190 г",
-		"picture": "https://media.5ka.ru/media/products/4087688.jpg",
-		"dataPromo":" до 1 марта",
-		"group": "Сыры",
-		"promo": 0
-	},
-	{
-		"name": "БЗМЖ Сыр 'БАШКИРСКИЙ МЕДОВЫЙ' 50%",
-		"price": 229.99,
-		"discount":31,
-		"wight": "190 г",
-		"picture": "https://media.5ka.ru/media/products/4087688.jpg",
-		"dataPromo":" до 1 марта",
-		"group": "Сыры",
-		"promo": 0
-	},
-	{
-		"name": "БЗМЖ Сыр 'БАШКИРСКИЙ МЕДОВЫЙ' 50%",
-		"price": 229.99,
-		"discount":31,
-		"wight": "190 г",
-		"picture": "https://media.5ka.ru/media/products/4087688.jpg",
-		"dataPromo":" до 1 марта",
-		"group": "Сыры",
-		"promo": 0
-	},
-	{
-		"name": "БЗМЖ Сыр 'БАШКИРСКИЙ МЕДОВЫЙ' 50%",
-		"price": 229.99,
-		"discount":31,
-		"wight": "190 г",
-		"picture": "https://media.5ka.ru/media/products/4087688.jpg",
-		"dataPromo":" до 1 марта",
-		"group": "Сыры",
-		"promo": 0
-	},
-	{
-		"name": "БЗМЖ Сыр 'БАШКИРСКИЙ МЕДОВЫЙ' 50%",
-		"price": 229.99,
-		"discount":31,
-		"wight": "190 г",
-		"picture": "https://media.5ka.ru/media/products/4087688.jpg",
-		"dataPromo":" до 1 марта",
-		"group": "Сыры",
-		"promo": 0
 	}
 
 ]

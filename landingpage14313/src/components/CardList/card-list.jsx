@@ -6,13 +6,13 @@ import './index.css';
 
 
 const CardList = () => {
-	const { cards } = useContext(CardContext)
+	const { currentCountry } = useContext(CardContext)
 	return (
 		<>
 			<Sort/>
 			<div className='cards'>
 				{
-					cards.map((item, index) => <Card key={index} {...item} />)
+					currentCountry.map((item, index) => <Card key={index} {...item} />)
 				}
 			</div>
 		</>
