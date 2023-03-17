@@ -13,14 +13,13 @@ function App() {
     const [cards,setCards]=useState(data);
     const [currentSort, setCurrentSort] = useState("");
     const [currentPage,setCurrentPage] = useState(1);
-    const [countriesPerPage] = useState(10);
+    const [countriesPerPage] = useState(12);
     
     const lastCountryIndex = currentPage * countriesPerPage; 
     const firstCountryIndex = lastCountryIndex - countriesPerPage;
     const currentCountry = cards.slice(firstCountryIndex, lastCountryIndex);
 
-    const paginate =  pageNumber => setCurrentPage(pageNumber)
-
+    const paginate =  pageNumber => setCurrentPage(pageNumber);
 
 //    Фунционал сортирови, чтобы фильтровать сезонное промо и недельное сделан костыль в promo добалена цифра 1 = сезонное промо, 0- недельное промо
     const sortedData = (currentSort) => {
@@ -45,6 +44,7 @@ function App() {
                     countriesPerPage={countriesPerPage}
                     totalCounties={cards.length}
                     paginate={paginate}
+                    currentPage={currentPage}
                 />
                 <Tagline />
             </main>
