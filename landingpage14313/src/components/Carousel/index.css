@@ -1,0 +1,8 @@
+
+li.cousel{
+    background-color: gray;
+}
+
+li.cousel ::after{
+    background-color: lime;
+}

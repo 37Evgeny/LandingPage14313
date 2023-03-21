@@ -5,8 +5,9 @@ import Header from "../Header/header";
 import Tagline from "../Tagline/tagline";
 import data from '../../assets/data.json';
 import { CardContext } from '../../context/cardContext';
-import Knives2 from "../Promo/Knives14.03-29.04/knives-ve2";
 import Pagination from "../Pagination/pagination";
+import Carousel__Promo from "../Carousel/carousel";
+import Knives2 from "../Promo/Knives14.03-29.04/knives-ve2";
 
 function App() {
 
@@ -38,9 +39,10 @@ function App() {
         <>
             <Header />
             <main className='content container'>
+                {/* <Carousel__Promo/> */}
                 <Knives2/>
                 <CardList/>
-                <Pagination 
+                <Pagination
                     countriesPerPage={countriesPerPage}
                     totalCounties={cards.length}
                     paginate={paginate}

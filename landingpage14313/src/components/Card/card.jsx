@@ -2,7 +2,7 @@
 import './index.css';
 // import {ReactComponent as Save} from "./save.svg";
 
-const Card = ({ name, _id, price, discount, wight, description, picture, dataPromo }) => {
+const Card = ({ name, price, discount, wight, description, picture, dataPromo }) => {
 
 	const discount_price = Math.round(price - price * discount / 100)
 
@@ -14,7 +14,7 @@ const Card = ({ name, _id, price, discount, wight, description, picture, dataPro
 			<div className="card__sticky card__sticky_type_top-right">
 
 			</div>
-			<a href="/product" className="card__link">
+			<a href="/" className="card__link">
 				<img src={picture} alt={description} className="card__image" />
 				<div className="card__desc">
 					<p className="card__name">{name}</p>
