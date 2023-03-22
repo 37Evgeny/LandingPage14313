@@ -27,7 +27,7 @@ const tabs = [
 ];
 
 const Sort = () => {
-    const { currentSort, setCurrentSort, sortedData ,handleSorted} = useContext(CardContext)
+    const { currentSort, setCurrentSort, sortedData } = useContext(CardContext)
 
 	const handleClick = (e, tab) => {
 		e.preventDefault();

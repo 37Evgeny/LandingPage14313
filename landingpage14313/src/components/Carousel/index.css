@@ -1,0 +1,13 @@
+
+li{
+    background-color: gray;
+}
+
+li ::after{
+    background-color: lime;
+}
+
+.carusel2{
+    display: flex;
+    align-items: center;
+}

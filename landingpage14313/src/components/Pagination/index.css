@@ -1,0 +1,35 @@
+.pagination{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    justify-content: center;
+    font-size: 18px;
+    opacity: 0.6;
+}
+
+.page-link{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    background: white;
+    text-align: center;
+    border-radius: 50%;
+    padding: 0.5em  0;
+    width:2em;
+    height:2em;
+   
+
+}
+.page-link:hover{
+    background:blueviolet;
+}
+
+.page-link-active{
+    background: green;
+}
+
+li.page-item{
+    background-color: white;
+}
+   
+

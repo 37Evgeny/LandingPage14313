@@ -15,6 +15,10 @@
 .mark__promo{
     font-size: 24px;
 }
+.bg{
+  position:inherit;
+}
+
 
 @media (max-width: 768px){
     .knives{
