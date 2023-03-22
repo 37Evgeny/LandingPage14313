@@ -95,6 +95,9 @@
 .socials__link:hover {
 	opacity: 1;
 }
+li.socials__item{
+    background-color: white;
+}
 
 
 @media (max-width: 880px) {

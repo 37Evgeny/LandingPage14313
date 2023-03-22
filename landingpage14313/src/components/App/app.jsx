@@ -39,8 +39,8 @@ function App() {
         <>
             <Header />
             <main className='content container'>
-                {/* <Carousel__Promo/> */}
-                <Knives2/>
+                <Carousel__Promo/>
+                {/* <Knives2/> */}
                 <CardList/>
                 <Pagination
                     countriesPerPage={countriesPerPage}

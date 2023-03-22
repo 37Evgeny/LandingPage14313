@@ -27,5 +27,9 @@
 .page-link-active{
     background: green;
 }
+
+li.page-item{
+    background-color: white;
+}
    
 
