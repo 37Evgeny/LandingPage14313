@@ -7,7 +7,7 @@ import data from '../../assets/data.json';
 import { CardContext } from '../../context/cardContext';
 import Pagination from "../Pagination/pagination";
 import Carousel__Promo from "../Carousel/carousel";
-import Knives2 from "../Promo/Knives14.03-29.04/knives-ve2";
+import { NotFound } from "../NotFound/not-found";
 
 function App() {
 
@@ -40,7 +40,6 @@ function App() {
             <Header />
             <main className='content container'>
                 <Carousel__Promo/>
-                {/* <Knives2/> */}
                 <CardList/>
                 <Pagination
                     countriesPerPage={countriesPerPage}
@@ -49,6 +48,7 @@ function App() {
                     currentPage={currentPage}
                 />
                 <Tagline />
+                {/* <NotFound/> */}
             </main>
             <Footer />
         </>

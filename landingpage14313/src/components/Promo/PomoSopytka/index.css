@@ -1,3 +1,9 @@
 .saleSpan{
     font-size: 38px;
 }
+
+@media (max-width: 700px) {
+    .saleSpan{
+        font-size: 24px;
+    }
+}
