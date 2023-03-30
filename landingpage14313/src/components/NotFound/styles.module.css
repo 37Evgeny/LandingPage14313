@@ -1,0 +1,23 @@
+.notFound {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
+
+.image {
+	width: 80vh;
+	height: 80vh;
+	object-fit: contain;
+}
+
+@media (max-width: 720px){
+    .notFound {
+     flex-direction: column;
+    }
+    .image {
+        width: 50vh;
+        height: 50vh;
+        object-fit: contain;
+    }
+}

@@ -6,8 +6,10 @@ li{
 li ::after{
     background-color: lime;
 }
-
-.carusel2{
-    display: flex;
-    align-items: center;
+.carusel__container {
+	max-width: 1024px;
+	padding-left: 16px;
+	padding-right: 16px;
+	width: 95%;
+	margin: 0 auto;
 }

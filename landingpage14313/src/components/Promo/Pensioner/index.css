@@ -1,0 +1,52 @@
+.pensioner{
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.pencia__15{
+    position: absolute;
+    bottom: 70%;
+    left: 10%;
+    font-size: 50px;
+    background-color: rgba(0, 255, 0, 0.575);
+    border-radius: 30px;
+    padding: 5px 5px;
+}
+
+.pencia__mir{
+    position: absolute;
+    bottom: 10%;
+    right: 10%;
+    font-size: 50px;
+    background-color: rgba(26, 43, 196, 0.459);
+    border-radius: 30px;
+    padding: 5px 5px;
+}
+
+@media (max-width: 700px) {
+    .pensioner{
+        display: flex;
+        flex-direction: column;
+    }
+    .pencia__15{
+        position: static;
+        bottom: 70%;
+        left: 10%;
+        font-size: 50px;
+        background-color: rgba(0, 255, 0, 0.575);
+        border-radius: 30px;
+        padding: 5px 5px;
+    }
+    
+    .pencia__mir{
+        position: static;
+        bottom: 10%;
+        right: 10%;
+        font-size: 50px;
+        background-color: rgba(26, 43, 196, 0.459);
+        border-radius: 30px;
+        padding: 5px 5px;
+        margin-top: 50px;
+    }
+}

@@ -78,6 +78,7 @@
 .socials {
 	display: flex;
 	align-items: center;
+	justify-content: center;
 	width: 100%;
 	gap: 14px;
 	list-style: none;
@@ -90,6 +91,7 @@
 	justify-content: center;
 	opacity: 0.4;
 	transition: opacity 0.3s;
+	padding-right: 5px;
 }
 
 .socials__link:hover {
