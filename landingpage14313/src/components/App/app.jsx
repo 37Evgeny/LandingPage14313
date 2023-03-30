@@ -8,6 +8,7 @@ import { CardContext } from '../../context/cardContext';
 import Pagination from "../Pagination/pagination";
 import Carousel__Promo from "../Carousel/carousel";
 import { NotFound } from "../NotFound/not-found";
+import Santoky17cm from "../../pages/KnivesPage/Knives17cmSantoky/knives17cm-santoky";
 
 function App() {
 
@@ -49,7 +50,9 @@ function App() {
                 />
                 <Tagline />
                 {/* <NotFound/> */}
+               
             </main>
+            {/* <Santoky17cm/> */}
             <Footer />
         </>
         </CardContext.Provider>
