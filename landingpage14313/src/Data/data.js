@@ -405,3 +405,173 @@
     "group": "Специи",
     "promo": 1
 }
+{
+    "name" : "Дск Виноград КРАСНЫЙ",
+    "price" : 319.99,
+    "discount" : 10,
+    "wight" : "1 кг",
+    "picture" : "https://media.5ka.ru/media/products/47593.jpg",
+    "dataPromo" : "3 апреля",
+    "group" : "Фров",
+    "promo" :0
+    },
+    {
+    "name" : "Дск Яблоки ГОЛДЕН",
+    "price" : 119.99,
+    "discount" : 17,
+    "wight" : "1 кг",
+    "picture" : "https://media.5ka.ru/media/products/48188.jpg",
+    "dataPromo" : "3 апреля",
+    "group" : "Фров",
+    "promo" :0
+    },
+    {
+    "name" : "Дск Груши КОНФЕРЕНЦИЯ",
+    "price" : 229.99,
+    "discount" : 14,
+    "wight" : "1 кг",
+    "picture" : "https://media.5ka.ru/media/products/50911.jpg",
+    "dataPromo" : "3 апреля",
+    "group" : "Фров",
+    "promo" :0
+    },
+    {
+    "name" : "Дск Зелень Петрушка в упаковке",
+    "price" : 69.99,
+    "discount" : 15,
+    "wight" : "100 г",
+    "picture" : "https://media.5ka.ru/media/products/3043867.jpg",
+    "dataPromo" : "3 апреля",
+    "group" : "Фров",
+    "promo" :0
+    },
+    {
+    "name" : "Дск Лимоны",
+    "price" : 109.99,
+    "discount" : 10,
+    "wight" : "1 кг",
+    "picture" : "https://media.5ka.ru/media/products/3294954.jpg",
+    "dataPromo" : "3 апреля",
+    "group" : "Фров",
+    "promo" :0
+    },
+    {
+    "name" : "Дск Огурцы",
+    "price" : 69.99,
+    "discount" : 15,
+    "wight" : "1 шт",
+    "picture" : "https://media.5ka.ru/media/products/3333628.jpg",
+    "dataPromo" : "3 апреля",
+    "group" : "Фров",
+    "promo" :0
+    },
+    {
+    "name" : "Дск Авокадо",
+    "price" : 415.99,
+    "discount" : 4,
+    "wight" : "1 кг",
+    "picture" : "https://media.5ka.ru/media/products/3644078.jpg",
+    "dataPromo" : "3 апреля",
+    "group" : "Фров",
+    "promo" :0
+    },
+    {
+    "name" : "ДСК Грибы Шампиньоны",
+    "price" : 129.99,
+    "discount" : 24,
+    "wight" : "400 г",
+    "picture" : "https://media.5ka.ru/media/products/3655737.jpg",
+    "dataPromo" : "3 апреля",
+    "group" : "Фров",
+    "promo" :0
+    },
+    {
+    "name" : "Дск Томат сливовидный",
+    "price" : 205.99,
+    "discount" : 8,
+    "wight" : "600г",
+    "picture" : "https://media.5ka.ru/media/products/3648084.jpg",
+    "dataPromo" : "3 апреля",
+    "group" : "Фров",
+    "promo" :0
+    },
+    {
+    "name" : "Бабкины семечки, жареные",
+    "price" : 149.99,
+    "discount" : 34,
+    "wight" : "300 г",
+    "picture" : "https://media.5ka.ru/media/products/85158.jpg",
+    "dataPromo" : "3 апреля",
+    "group" : "Семечки",
+    "promo" :0
+    },
+    {
+    "name" : "Семечки от Мартина, белые, соленые",
+    "price" : 69.99,
+    "discount" : 29,
+    "wight" : "100 г",
+    "picture" : "https://media.5ka.ru/media/products/3348828.jpg",
+    "dataPromo" : "3 апреля",
+    "group" : "Семечки",
+    "promo" :0
+    },
+    {
+		"name" : "Бедро Ярославский Бройлер куриное охлажденное",
+		"price" : 199.99,
+		"discount" : 11,
+		"wight" : "1 кг",
+		"picture" : "https://media.5ka.ru/media/products/2169877.jpg",
+		"dataPromo" : "3 апреля",
+		"group" : "Птица",
+		"promo" :0
+		},
+		{
+		"name" : "Фрикадельки Ближние горки из свинины ",
+		"price" : 139.99,
+		"discount" : 16,
+		"wight" : "360 г",
+		"picture" : "https://media.5ka.ru/media/products/3641219.jpg",
+		"dataPromo" : "3 апреля",
+		"group" : "Мясо",
+		"promo" :0
+		},
+		{
+		"name" : "Чевапчичи, из свинины, Ближние Горки",
+		"price" : 164.99,
+		"discount" : 22,
+		"wight" : "300 г",
+		"picture" : "https://media.5ka.ru/media/products/3651808.jpg",
+		"dataPromo" : "3 апреля",
+		"group" : "Мясо",
+		"promo" :0
+		},
+		{
+		"name" : "Тендер Лопатка свиная б/к охл.1кг в/у",
+		"price" : 255.99,
+		"discount" : 11,
+		"wight" : "1 кг",
+		"picture" : "https://media.5ka.ru/media/products/4230663.jpg",
+		"dataPromo" : "3 апреля",
+		"group" : "Мясо",
+		"promo" :0
+		},
+		{
+		"name" : "Дск Картофель ранний",
+		"price" : 69.99,
+		"discount" : 15,
+		"wight" : "1 кг",
+		"picture" : "https://media.5ka.ru/media/products/127.jpg",
+		"dataPromo" : "3 апреля",
+		"group" : "Фров",
+		"promo" :0
+		},
+		{
+		"name" : "Рестория фарш Говяжий",
+		"price" : 199.99,
+		"discount" : 16,
+		"wight" : "400 г",
+		"picture" : "https://media.5ka.ru/media/products/3398465.jpg",
+		"dataPromo" : "3 апреля",
+		"group" : "Мясо",
+		"promo" :0
+		},
