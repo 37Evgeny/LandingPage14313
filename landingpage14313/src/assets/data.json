@@ -70,16 +70,6 @@
 		"promo" :1
 		},
 		{
-		"name" : "Семена подсолнечника жареные Mixbar",
-		"price" : 59.99,
-		"discount" : 21,
-		"wight" : "200 г",
-		"picture" : "https://media.5ka.ru/media/products/4082127.jpg",
-		"dataPromo" : "19 апреля",
-		"group" : "Семечки",
-		"promo" :1
-		},
-		{
 		"name" : "БЗМЖ Простоквашино Продукт кисломол.ряженк.сладкий со вкусом ванили 6%",
 		"price" : 51.99,
 		"discount" : 16,
@@ -227,16 +217,6 @@
 		"picture" : "https://media.5ka.ru/media/products/2146533.jpg",
 		"dataPromo" : "19 апреля",
 		"group" : "Соусы",
-		"promo" :1
-		},
-		{
-		"name" : "Рулет Павловская Курочка Ароматный к/в",
-		"price" : 459.99,
-		"discount" : 18,
-		"wight" : "1 кг",
-		"picture" : "https://media.5ka.ru/media/products/2146533.jpg",
-		"dataPromo" : "19 апреля",
-		"group" : "Мясной гастроном",
 		"promo" :1
 		},
 		{

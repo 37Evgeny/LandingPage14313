@@ -14,7 +14,7 @@ const Card = ({ name, price, discount, wight, description, picture, dataPromo })
 			<div className="card__sticky card__sticky_type_top-right">
 
 			</div>
-			<a href="/" className="card__link">
+			{/* <a href="/" className="card__link"> */}
 				<img src={picture} alt={description} className="card__image" />
 				<div className="card__desc">
 					<p className="card__name">{name}</p>
@@ -23,7 +23,7 @@ const Card = ({ name, price, discount, wight, description, picture, dataPromo })
 					{discount !== 0 && <span className="card__price card__price_type_discount">от {discount_price}&nbsp;₽</span>}
 					<span className='card__promo'>{dataPromo}</span>
 				</div>
-			</a>
+			{/* </a> */}
 		</div>
 	);
 };

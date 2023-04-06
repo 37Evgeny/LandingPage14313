@@ -6,7 +6,6 @@
 	padding: 10px;
 	border-radius: 10px;
 	border: 1px solid green ;
-	border-radius: 10px;
 }
 
 .card:hover {
@@ -25,7 +24,7 @@
 }
 
 .card__image {
-	width: 100%;
+	width: 80%;
 	object-fit: contain;
 	margin-bottom: 16px;
 }
@@ -99,17 +98,6 @@
 	border: none;
 	padding: 0;
 	display: flex;
-}
-
-.card__favorite svg{
-	fill: white;
-	stroke-width: 1px;
-	stroke: #7b8e98;
-}
-
-.card__favorite_is-active svg{
-	fill:red;
-	stroke-width: 0;
 }
 
 .card__cart {

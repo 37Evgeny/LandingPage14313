@@ -6,9 +6,9 @@
 html {
 	box-sizing: border-box;
 }
-body {
+/* body {
 	font-family: "Nunito", "Arial", "Helvetica", sans-serif;
-}
+} */
 
 .container {
 	max-width: 1024px;
@@ -18,7 +18,7 @@ body {
 	margin: 0 auto;
 }
 
-img {
+ img {
 	max-width: 100%;
 }
 
