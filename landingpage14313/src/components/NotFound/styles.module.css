@@ -1,11 +1,11 @@
-/* .notFound {
+.notFound {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	height: 100%;
 }
 
-.image {
+.image__non {
 	width: 80vh;
 	height: 80vh;
 	object-fit: contain;
@@ -20,4 +20,4 @@
         height: 50vh;
         object-fit: contain;
     }
-} */
+}

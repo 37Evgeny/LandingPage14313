@@ -1,0 +1,22 @@
+.happy{
+    border: 10px solid rgba(128, 128, 128, 0.575) ;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(0, 255, 0, 0.267);
+}
+.happy__text{
+    bottom: 25%;
+    font-size: 35px;
+    color: black;
+}
+.happy__text__footer{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    bottom: 10%;
+}
+.happy__text__days{
+    color: red;
+    font-weight: 900;
+}

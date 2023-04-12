@@ -6,7 +6,7 @@ export const NotFound = ( {children} ) => {
 	return (
 		<>
 			<div className={s.notFound}>
-				<img src={notFound} className={s.image} aria-hidden="true" alt="" />
+				<img src={notFound} className={s.image__non} aria-hidden="true" alt="" />
 				{children && children}
                 <h1>Ой!?! <br/>что-то сломалось!</h1>
 			</div>

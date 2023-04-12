@@ -575,3 +575,394 @@
 		"group" : "Мясо",
 		"promo" :0
 		},
+        ,
+		{
+		"name" : "Бедро цыпленка, особое, охлажденное, Петелинка",
+		"price" : 229.99,
+		"discount" : 22,
+		"wight" : "1 кг",
+		"picture" : "https://media.5ka.ru/media/products/2073280.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Птица",
+		"promo" :0
+		},
+		{
+		"name" : "Филе куриное охлажденное",
+		"price" : 278.99,
+		"discount" : 11,
+		"wight" : "1 кг",
+		"picture" : "https://media.5ka.ru/media/products/3191300.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Птица",
+		"promo" :0
+		},
+		{
+		"name" : "Fish House Крабовые палочки снежный краб, имит. охлажденные",
+		"price" : 149.99,
+		"discount" : 24,
+		"wight" : "200 г",
+		"picture" : "https://media.5ka.ru/media/products/3297408.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Рыбный гастроном",
+		"promo" :0
+		},
+		{
+		"name" : "Килька Fish House пряного посола неразделанная",
+		"price" : 79.99,
+		"discount" : 26,
+		"wight" : "350 г",
+		"picture" : "https://media.5ka.ru/media/products/3302132.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Рыбный гастроном",
+		"promo" :0
+		},
+		{
+		"name" : "Скумбрия кусочки холодного копчения, без головы, Fish House",
+		"price" : 219.99,
+		"discount" : 32,
+		"wight" : "300 г",
+		"picture" : "https://media.5ka.ru/media/products/3444350.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Рыбный гастроном",
+		"promo" :0
+		},
+		{
+		"name" : "Форель филе кусок с/с 150г Красная цена",
+		"price" : 259.99,
+		"discount" : 24,
+		"wight" : "150 г",
+		"picture" : "https://media.5ka.ru/media/products/3601472.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Рыбный гастроном",
+		"promo" :0
+		},
+		{
+		"name" : "КР.ЦЕНА Креветки мелкие неразд.в/м",
+		"price" : 269.99,
+		"discount" : 26,
+		"wight" : "150 г",
+		"picture" : "https://media.5ka.ru/media/products/3605498.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Заморозка",
+		"promo" :0
+		},
+		{
+		"name" : "Филе бедра индейки, Индилайт, охлажденное",
+		"price" : 249.99,
+		"discount" : 21,
+		"wight" : "410 г",
+		"picture" : "https://media.5ka.ru/media/products/3673236.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Птица",
+		"promo" :0
+		},
+		{
+		"name" : "РЕСТОРИЯ Азу из индейки полуфабрикат",
+		"price" : 219.99,
+		"discount" : 19,
+		"wight" : "500 г",
+		"picture" : "https://media.5ka.ru/media/products/4072852.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Птица",
+		"promo" :0
+		},
+		{
+		"name" : "Стейк свиной на косточке Рестория",
+		"price" : 179.99,
+		"discount" : 14,
+		"wight" : "400 г",
+		"picture" : "https://media.5ka.ru/media/products/4134961.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Мясо",
+		"promo" :0
+		},
+		{
+		"name" : "Тендер Лопатка свиная б/к охл.",
+		"price" : 299.99,
+		"discount" : 21,
+		"wight" : "1 кг",
+		"picture" : "https://media.5ka.ru/media/products/4230663.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Мясо",
+		"promo" :0
+		},
+		{
+		"name" : "Вода Святой источник, без газа",
+		"price" : 34.99,
+		"discount" : 15,
+		"wight" : "0,5 л",
+		"picture" : "https://media.5ka.ru/media/products/1914.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Вода",
+		"promo" :0
+		},
+		{
+		"name" : "PRESID.Сыр 45% плав.сливоч.",
+		"price" : 129.99,
+		"discount" : 24,
+		"wight" : "140 г",
+		"picture" : "https://media.5ka.ru/media/products/15856.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Сыры",
+		"promo" :0
+		},
+		{
+		"name" : "Конфеты Toffifee",
+		"price" : 209.99,
+		"discount" : 43,
+		"wight" : "125 г",
+		"picture" : "https://media.5ka.ru/media/products/21473.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Наборы конфет",
+		"promo" :0
+		},
+		{
+		"name" : "Конфеты Ромашки",
+		"price" : 659.99,
+		"discount" : 47,
+		"wight" : "1 кг",
+		"picture" : "https://media.5ka.ru/media/products/41398.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Конфеты",
+		"promo" :0
+		},
+		{
+		"name" : "Чай Greenfield, Golden Ceylon, черный",
+		"price" : 139.99,
+		"discount" : 33,
+		"wight" : "25х2 г",
+		"picture" : "https://media.5ka.ru/media/products/46398.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Чай",
+		"promo" :0
+		},
+		{
+		"name" : "Масло Золотая Семечка подсолнечное рафинированное",
+		"price" : 139.99,
+		"discount" : 22,
+		"wight" : "1 л",
+		"picture" : "https://media.5ka.ru/media/products/64128.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Масло подсолнечное",
+		"promo" :0
+		},
+		{
+		"name" : "Макароны Шебекинские Перья",
+		"price" : 74.99,
+		"discount" : 34,
+		"wight" : "450 г",
+		"picture" : "https://media.5ka.ru/media/products/82765.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Макароны",
+		"promo" :0
+		},
+		{
+		"name" : "Творожок Чудо",
+		"price" : 52.99,
+		"discount" : 19,
+		"wight" : "100 г",
+		"picture" : "https://media.5ka.ru/media/products/3203086.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Молочный гастроном",
+		"promo" :0
+		},
+		{
+		"name" : "Стиральный порошок Bimax",
+		"price" : 599.99,
+		"discount" : 34,
+		"wight" : "3 кг",
+		"picture" : "https://media.5ka.ru/media/products/2161508.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Порошок",
+		"promo" :0
+		},
+		{
+		"name" : "АККОНД Конфеты ОТЛОМИ",
+		"price" : 667.99,
+		"discount" : 32,
+		"wight" : "1 кг",
+		"picture" : "https://media.5ka.ru/media/products/3215871.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Конфеты",
+		"promo" :0
+		},
+		{
+		"name" : "Чай Greenfield, Kenyan Sunrise, черный",
+		"price" : 479.99,
+		"discount" : 38,
+		"wight" : "100х2 г",
+		"picture" : "https://media.5ka.ru/media/products/3378336.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Чай",
+		"promo" :0
+		},
+		{
+		"name" : "Колбаса Пресижн, сырокопченая, Останкино",
+		"price" : 309.99,
+		"discount" : 33,
+		"wight" : "250 г",
+		"picture" : "https://media.5ka.ru/media/products/3440967.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Мясной гастроном",
+		"promo" :0
+		},
+		{
+		"name" : "Бумага туалетная Papia Балийский Цветок 3 слоя ",
+		"price" : 279.99,
+		"discount" : 33,
+		"wight" : "8 шт",
+		"picture" : "https://media.5ka.ru/media/products/3450510.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Бумага",
+		"promo" :0
+		},
+		{
+		"name" : "Средство для мытья посуды AOS",
+		"price" : 139.99,
+		"discount" : 29,
+		"wight" : "450 г",
+		"picture" : "https://media.5ka.ru/media/products/3669210.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Чистящие, моющие",
+		"promo" :0
+		},
+		{
+		"name" : "Средство для мытья посуды Synergetic",
+		"price" : 159.99,
+		"discount" : 38,
+		"wight" : "500 мл",
+		"picture" : "https://media.5ka.ru/media/products/3682367.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Чистящие, моющие",
+		"promo" :0
+		},
+		{
+		"name" : "Мини круассаны Шарлиз",
+		"price" : 89.99,
+		"discount" : 11,
+		"wight" : "200 г",
+		"picture" : "https://media.5ka.ru/media/products/3900907.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Кексы, рулеты",
+		"promo" :0
+		},
+		{
+		"name" : "Колбаса полукопченая «Кремлевская с грудинкой»",
+		"price" : 249.99,
+		"discount" : 49,
+		"wight" : "350 г",
+		"picture" : "https://media.5ka.ru/media/products/3920511.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Мясной гастроном",
+		"promo" :0
+		},
+		{
+		"name" : "БЗМЖ МАСЛО СЛАДКО-СЛИВОЧНОЕ ТРАДИЦИОННОЕ НЕСОЛЕНОЕ В/С «ЭКОМИЛК»,м.д.ж. 82,5%",
+		"price" : 199.99,
+		"discount" : 31,
+		"wight" : "180 г",
+		"picture" : "https://media.5ka.ru/media/products/4113532.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Молочный гастроном",
+		"promo" :0
+		},
+		{
+		"name" : "Корм консервированный полнорационный Whiskas для взрослых кошек",
+		"price" : 27.99,
+		"discount" : 26,
+		"wight" : "75 г",
+		"picture" : "https://media.5ka.ru/media/products/4118761.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Корма",
+		"promo" :0
+		},
+		{
+		"name" : "Колбаса ПАПА МОЖЕТ Сервелат Зернистый",
+		"price" : 259.99,
+		"discount" : 43,
+		"wight" : "350 г",
+		"picture" : "https://media.5ka.ru/media/products/4135604.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Мясной гастроном",
+		"promo" :0
+		},
+		{
+		"name" : "Felix Аппетитные Кусочки",
+		"price" : 30.99,
+		"discount" : 33,
+		"wight" : "75 г",
+		"picture" : "https://media.5ka.ru/media/products/4249872.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Корма",
+		"promo" :0
+		},
+		{
+		"name" : "Яблоки РОЯЛ ГАЛА фас.",
+		"price" : 99.99,
+		"discount" : 11,
+		"wight" : "1 кг",
+		"picture" : "https://media.5ka.ru/media/products/48637.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Фров",
+		"promo" :0
+		},
+		{
+		"name" : "Дск Капуста КИТАЙСКАЯ",
+		"price" : 109.99,
+		"discount" : 10,
+		"wight" : "1 кг",
+		"picture" : "https://media.5ka.ru/media/products/48687.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Фров",
+		"promo" :0
+		},
+		{
+		"name" : "Айва",
+		"price" : 129.99,
+		"discount" : 12,
+		"wight" : "1 кг",
+		"picture" : "https://media.5ka.ru/media/products/50818.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Фров",
+		"promo" :0
+		},
+		{
+		"name" : "Дск Апельсины",
+		"price" : 99.99,
+		"discount" : 11,
+		"wight" : "1 кг",
+		"picture" : "https://media.5ka.ru/media/products/60526.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Фров",
+		"promo" :0
+		},
+		{
+		"name" : "Дск Огурцы короткоплодные",
+		"price" : 159.99,
+		"discount" : 26,
+		"wight" : "450 г",
+		"picture" : "https://media.5ka.ru/media/products/2250692.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Фров",
+		"promo" :0
+		},
+		{
+		"name" : "Дск Зелень Ассорти лук/укр/петр.подл.",
+		"price" : 67.99,
+		"discount" : 12,
+		"wight" : "70 г",
+		"picture" : "https://media.5ka.ru/media/products/3043871.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Фров",
+		"promo" :0
+		},
+		{
+		"name" : "Дск Грибы ШАМПИНЬОНЫ",
+		"price" : 95.99,
+		"discount" : 22,
+		"wight" : "250 г",
+		"picture" : "https://media.5ka.ru/media/products/3357066.jpg",
+		"dataPromo" : "10 апреля",
+		"group" : "Фров",
+		"promo" :0
+		}
