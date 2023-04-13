@@ -50,3 +50,24 @@
         margin-top: 50px;
     }
 }
+@media (max-width: 420px){
+    .pencia__15{
+        position: static;
+        bottom: 70%;
+        left: 10%;
+        font-size: 35px;
+        background-color: rgba(0, 255, 0, 0.575);
+        border-radius: 30px;
+        padding: 5px 5px;
+    }
+    .pencia__mir{
+        position: static;
+        bottom: 10%;
+        right: 10%;
+        font-size: 30px;
+        background-color: rgba(26, 43, 196, 0.459);
+        border-radius: 30px;
+        padding: 5px 5px;
+        margin-top: 50px;
+    }
+}

@@ -20,3 +20,9 @@
     color: red;
     font-weight: 900;
 }
+
+@media (max-width: 400px){
+    .happy__text{
+        font-size: 12px;
+    }
+}
